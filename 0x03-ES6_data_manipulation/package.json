@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "0x03. ES6 data manipulation\r ===========================",
   "main": "0-get_list_students.js",
+  "type": "module",
   "scripts": {
     "lint": "eslint ./"
+
   },
   "keywords": [],
   "author": "",
