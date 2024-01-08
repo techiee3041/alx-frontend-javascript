@@ -1,0 +1,17 @@
+{
+  "name": "0x03-es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "0x03. ES6 data manipulation\r ===========================",
+  "main": "0-get_list_students.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
